@@ -1,9 +1,8 @@
 ## WebSSH
 
-How  add to record video ?
+使用webssh做录像功能结合使用asciinema
 use https://github.com/asciinema/asciinema-player/releases
 
-asciinema
 
 
 使用全局变量来做到这一需要 在安装目录webssh/main文件中修改
